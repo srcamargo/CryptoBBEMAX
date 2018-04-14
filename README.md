@@ -8,4 +8,10 @@ Usage Have the bot configured with 1M period and the crypto of your choice (let 
 
 Have fun!
 
-Use at your own risk
+
+If you like this, please donate:
+
+# BTC to 17ZVjB3BkaXuKGV2tgYSv6Pr4mviS7HA93
+
+# ETH to 0xf1b9a3Bd029220aab5F7BC153D9015c8589a6D60
+
